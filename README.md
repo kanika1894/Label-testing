@@ -91,7 +91,7 @@
 <li>Requires structured data.
 
 <li>Needs time to time amendments.
-<br><strong>F1 score/Precision = 0.3634      Accuracy score = 0.5267</strong>
+<br><strong>F1 score/Precision = 0.3634      <br>Accuracy score = 0.5267</strong>
 </li>
 </ol>
    </td>
@@ -142,7 +142,7 @@
 <li>Model is trained from abundant labelled data.
 
 <li>Doesn’t give a decision unless the confidence is above threshold.
-<br><strong>F1 score/Precision = 0.8758       Accuracy score = 0.8785. </strong>
+<br><strong>F1 score/Precision = 0.8758       <br>Accuracy score = 0.8785. </strong>
 </li>
 </ol>
    </td>
